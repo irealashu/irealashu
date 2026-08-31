@@ -16,7 +16,7 @@ I'm a Cyber & Digital Risk professional who loves creating things with technolog
 
 I don't come from a traditional software engineering background, and I don't have a formal coding degree. What I do have is curiosity, persistence, and a genuine passion for building useful things.
 
-AI has made software creation more accessible than ever, and I enjoy leveraging it to transform ideas into working applications, tools, and experiments. Every project is an opportunity to learn something new, solve a problem, and have fun along the way.
+AI has made software creation more accessible than ever, and I enjoy leveraging it to transform ideas into working applications, tools, and experiments. Every project is an opportunity to learn something new and build something helpful.
 
 ### What I'm Up To
 
@@ -57,17 +57,15 @@ AI has made software creation more accessible than ever, and I enjoy leveraging 
 
 ## 📌 Featured Projects
 
-### 📄 PDF Toolkit
-A Python-based PDF utility toolkit designed to simplify PDF operations and document workflows.
+I've refreshed this section to reflect the repositories in my GitHub account.
 
-### ♟️ Chess App
-An Android chess application built while exploring mobile development and UI design.
-
-### 🧮 Calculator App
-A simple yet functional Android calculator application.
-
-### 🌐 Portfolio Website
-A personal portfolio showcasing projects, learning journey, and achievements.
+- 📄 [PDF_Toolkit](https://github.com/irealashu/PDF_Toolkit) — A feature-rich Python desktop application for PDF manipulation and image conversion (Apache-2.0).
+- 🧮 [Calculator](https://github.com/irealashu/Calculator) — Android calculator app built with Kotlin.
+- ♟️ [Chess](https://github.com/irealashu/Chess) — Android chess application exploring mobile UI and game logic.
+- 🌐 [Portfolio](https://github.com/irealashu/Portfolio) — My personal portfolio website showcasing projects and learning journey.
+- 🧩 [Sudoku](https://github.com/irealashu/Sudoku) — Web-based Sudoku game using HTML, CSS, and JavaScript.
+- 📚 [genshin-impact-archive](https://github.com/irealashu/genshin-impact-archive) — Excel-based archive and tracker for Genshin Impact progress and resources.
+- ⚙️ [irealashu](https://github.com/irealashu/irealashu) — This repository (profile/config); repository used for profile content and configuration.
 
 ---
 
