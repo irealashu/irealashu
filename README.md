@@ -57,14 +57,13 @@ AI has made software creation more accessible than ever, and I enjoy leveraging 
 
 ## 📌 Featured Projects
 
-I've refreshed this section to reflect the repositories in my GitHub account.
-
 - 📄 [PDF_Toolkit](https://github.com/irealashu/PDF_Toolkit) — A feature-rich Python desktop application for PDF manipulation and image conversion (Apache-2.0).
 - 🧮 [Calculator](https://github.com/irealashu/Calculator) — Android calculator app built with Kotlin.
 - ♟️ [Chess](https://github.com/irealashu/Chess) — Android chess application exploring mobile UI and game logic.
 - 🌐 [Portfolio](https://github.com/irealashu/Portfolio) — My personal portfolio website showcasing projects and learning journey.
 - 🧩 [Sudoku](https://github.com/irealashu/Sudoku) — Web-based Sudoku game using HTML, CSS, and JavaScript.
 - 📚 [genshin-impact-archive](https://github.com/irealashu/genshin-impact-archive) — Excel-based archive and tracker for Genshin Impact progress and resources.
+- 💻 [WebCode](https://github.com/irealashu/WebCode) — A lightweight, browser-based web development playground for HTML, CSS, and JavaScript.
 - ⚙️ [irealashu](https://github.com/irealashu/irealashu) — This repository (profile/config); repository used for profile content and configuration.
 
 ---
