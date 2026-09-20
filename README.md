@@ -73,16 +73,6 @@ AI has made software creation more accessible than ever, and I enjoy leveraging 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irealashu&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="Ashutosh's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irealashu&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 - 🧠 **Advanced AI workflows**: Prompt engineering, code generation & multi-agent architectures
