@@ -110,6 +110,9 @@ AI has made software creation more accessible than ever, and I enjoy leveraging 
 <div align="center">
 
 ### ⭐ Thanks for Visiting!
-*"The best way to learn is to build."*
-
+*The best way to learn is to build*
 </div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradientList=0,0,0,0|25,157,0,255,0.5|50,0,212,255,0.5|75,0,255,157,0.5|100,0,0,0,1&height=190&section=footer&reversal=true" />
