@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Ashutosh
+# Hi there 👋, I'm Ashutosh Singh
 
 ### 🛡️ Cyber & Digital Risk Professional | 🤖 AI-Assisted Builder | 🚀 Lifelong Learner
 
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a Cyber & Digital Risk professional who loves creating things with technology.
+I'm a Cyber & Digital Risk professional who loves creating things with technology. 
 
 I don't come from a traditional software engineering background, and I don't have a formal coding degree. What I do have is curiosity, persistence, and a genuine passion for building useful things.
 
@@ -25,12 +25,22 @@ AI has made software creation more accessible than ever, and I enjoy leveraging 
 
 ### 💼 What I'm Up To
 - 💼 **Associate, Cyber & Digital Risk Advisory** @ PwC
-- 🤖 **Building applications** with the power of AI
+- 🤖 **Building applications** with the power of AI & modern workflows
 - 🔐 **Exploring Cybersecurity** and Digital Risk mitigation
 - 📱 **Learning & experimenting** with Android Development in Kotlin
 - 🐍 **Creating utilities & automation** tools using Python
 - 🌱 **Continuously learning** through hands-on projects
-- 🚀 **Turning ideas into reality**, one project at a time
+
+---
+
+## 📊 GitHub Stats & Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=irealashu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Ashutosh's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=irealashu&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+
+</div>
 
 ---
 
@@ -47,29 +57,22 @@ AI has made software creation more accessible than ever, and I enjoy leveraging 
 
 </div>
 
-### 🎯 Areas of Interest
-- 🤖 **Artificial Intelligence**: LLM workflows, code-generation & assistive intelligence
-- 🔐 **Cybersecurity**: Digital risk assessment, vulnerability landscapes & security advisory
-- 📱 **Android Development**: Native Android applications with Kotlin & Material UI
-- 🐍 **Python Development**: File utilities, desktop applications & CLI automation
-- ⚙️ **Automation**: Streamlining repetitive tasks into automated scripts
-- ☁️ **Cloud Technologies**: Cloud infrastructure, security postures & serverless apps
-- 📊 **Digital Risk & Governance**: Enterprise risk mitigation & IT compliance
-
 ---
 
-## 📌 Featured Projects
+## 📌 Updated Repositories & Showcase
 
-| Project | Description | Tech Stack | Links |
+Here is the complete catalog of my public repositories and projects:
+
+| Repository | Description | Tech Stack | Quick Links |
 |:---|:---|:---|:---:|
-| 📄 **[PDF_Toolkit](https://github.com/irealashu/PDF_Toolkit)** | Feature-rich desktop utility for PDF page extraction, merging, and image conversion. | `Python` `PyPDF` `Tkinter` | [Code](https://github.com/irealashu/PDF_Toolkit) |
-| 💻 **[WebCode](https://github.com/irealashu/WebCode)** | Lightweight browser-based web development playground with live real-time preview. | `HTML5` `CSS3` `JavaScript` | [Code](https://github.com/irealashu/WebCode) • [Live Demo](https://irealashu.github.io/WebCode/) |
-| 🧮 **[Calculator](https://github.com/irealashu/Calculator)** | Modern Android calculator application built natively with Kotlin. | `Kotlin` `Android SDK` | [Code](https://github.com/irealashu/Calculator) |
-| ♟️ **[Chess](https://github.com/irealashu/Chess)** | Android chess application exploring board mechanics, UI responsiveness & game rules. | `Kotlin` `Android` | [Code](https://github.com/irealashu/Chess) |
-| 🧩 **[Sudoku](https://github.com/irealashu/Sudoku)** | Web-based interactive Sudoku puzzle game with real-time conflict checking. | `JavaScript` `HTML5` `CSS3` | [Code](https://github.com/irealashu/Sudoku) • [Live Demo](https://irealashu.github.io/Sudoku/) |
-| 🌐 **[Portfolio](https://github.com/irealashu/Portfolio)** | Personal portfolio website showcasing projects, milestones & learning journey. | `HTML5` `CSS3` `JavaScript` | [Code](https://github.com/irealashu/Portfolio) • [Website](https://irealashu.in/) |
-| 📚 **[genshin-impact-archive](https://github.com/irealashu/genshin-impact-archive)** | Excel-based archive & resource tracker for character progression & materials. | `Excel` `Data Modeling` | [Code](https://github.com/irealashu/genshin-impact-archive) |
-| ⚙️ **[irealashu](https://github.com/irealashu/irealashu)** | Public GitHub profile configuration repository. | `Markdown` `GitHub Actions` | [Code](https://github.com/irealashu/irealashu) |
+| 📄 **[PDF_Toolkit](https://github.com/irealashu/PDF_Toolkit)** | Feature-rich desktop utility for PDF page extraction, merging, and image conversion. | `Python` `PyPDF` `Tkinter` | [Source Code](https://github.com/irealashu/PDF_Toolkit) |
+| 💻 **[WebCode](https://github.com/irealashu/WebCode)** | Lightweight browser-based web development playground with live real-time preview. | `HTML5` `CSS3` `JavaScript` | [Source Code](https://github.com/irealashu/WebCode) • [Live Demo](https://irealashu.github.io/WebCode/) |
+| 🧮 **[Calculator](https://github.com/irealashu/Calculator)** | Modern Android calculator application built natively with Kotlin. | `Kotlin` `Android SDK` | [Source Code](https://github.com/irealashu/Calculator) |
+| ♟️ **[Chess](https://github.com/irealashu/Chess)** | Android chess application exploring board mechanics, UI responsiveness & game rules. | `Kotlin` `Android` | [Source Code](https://github.com/irealashu/Chess) |
+| 🧩 **[Sudoku](https://github.com/irealashu/Sudoku)** | Web-based interactive Sudoku puzzle game with real-time conflict checking. | `JavaScript` `HTML5` `CSS3` | [Source Code](https://github.com/irealashu/Sudoku) • [Live Demo](https://irealashu.github.io/Sudoku/) |
+| 🌐 **[Portfolio](https://github.com/irealashu/Portfolio)** | Personal portfolio website showcasing projects, milestones & learning journey. | `HTML5` `CSS3` `JavaScript` | [Source Code](https://github.com/irealashu/Portfolio) • [Website](https://irealashu.in/) |
+| 📚 **[genshin-impact-archive](https://github.com/irealashu/genshin-impact-archive)** | Excel-based archive & resource tracker for character progression & materials. | `Excel` `Data Modeling` | [Source Code](https://github.com/irealashu/genshin-impact-archive) |
+| ⚙️ **[irealashu](https://github.com/irealashu/irealashu)** | Public GitHub profile configuration and README repository. | `Markdown` `GitHub Actions` | [Source Code](https://github.com/irealashu/irealashu) |
 
 ---
 
@@ -79,7 +82,6 @@ AI has made software creation more accessible than ever, and I enjoy leveraging 
 - 📱 **Android application development**: Jetpack Compose & modern architecture
 - 🐍 **Python automation**: System utilities, document processing & CLI tooling
 - 🛡️ **Cybersecurity concepts**: Threat modeling, vulnerability management & secure coding
-- 🌐 **Open-source collaboration**: Git workflows & community contributions
 
 ---
 
@@ -91,7 +93,7 @@ AI has made software creation more accessible than ever, and I enjoy leveraging 
 >
 > *Today, AI helps me bridge the gap between ideas and implementation, allowing me to create projects that I once thought were beyond my reach.*
 >
-> *This GitHub profile is not a showcase of expertise. It's a showcase of learning, experimenting, building, and enjoying the journey."*
+> *This profile is not a showcase of expertise. It's a showcase of learning, experimenting, building, and enjoying the journey."*
 
 ---
 
@@ -111,8 +113,8 @@ AI has made software creation more accessible than ever, and I enjoy leveraging 
 
 ### ⭐ Thanks for Visiting!
 *The best way to learn is to build*
+
 </div>
 
 <br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradientList=0,0,0,0|25,157,0,255,0.5|50,0,212,255,0.5|75,0,255,157,0.5|100,0,0,0,1&height=190&section=footer&reversal=true" />
