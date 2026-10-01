@@ -37,7 +37,7 @@ AI has made software creation more accessible than ever, and I enjoy leveraging 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=irealashu&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=irealashu" alt="GitHub Streak" />
 
 </div>
 
