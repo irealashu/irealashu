@@ -2,7 +2,7 @@
 
 # Hi there ✌️, I'm Ashutosh Singh
 
-### 🛡️ Cyber & Digital Risk Professional | 🤖 AI-Assisted Builder | 🚀 Lifelong Learner
+### 🛡️ Cyber & Digital Risk Professional | 🤖 Open Source Builder | 🚀 Lifelong Learner
 
 [![PwC Advisory](https://img.shields.io/badge/PwC-Cyber%20%26%20Digital%20Risk-orange?style=for-the-badge&logo=pwc&logoColor=white)](https://www.pwc.in/)
 [![Website](https://img.shields.io/badge/Website-irealashu.in-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://irealashu.in/)
