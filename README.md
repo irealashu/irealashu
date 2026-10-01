@@ -21,7 +21,7 @@ I'm a Cyber & Digital Risk professional who loves creating things with technolog
 
 I don't come from a traditional software engineering background, and I don't have a formal coding degree. What I do have is curiosity, persistence, and a genuine passion for building useful things.
 
-AI has made software creation more accessible than ever, and I enjoy leveraging it to transform ideas into working applications, tools, and experiments. Every project is an opportunity to learn something new.
+AI has made software creation more accessible than ever, and I enjoy leveraging it to transform ideas into working applications, tools, and experiments. Every project is an opportunity to learn something new and push my boundaries.
 
 ### 💼 What I'm Up To
 
@@ -50,9 +50,10 @@ AI has made software creation more accessible than ever, and I enjoy leveraging 
 
 | Category | Technologies |
 |:---|:---|
-| **Core Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Mobile & Development** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Core Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Mobile & Development** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
+| **Web Technologies** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 | **AI & Acceleration** | ![AI Tools](https://img.shields.io/badge/AI%20Tools%20%26%20LLMs-412991?style=flat-square&logo=openai&logoColor=white) |
 
 </div>
@@ -61,16 +62,20 @@ AI has made software creation more accessible than ever, and I enjoy leveraging 
 
 ## 📌 Projects
 
-A selection of my public repositories. Links use each repository's canonical GitHub URL; live demos are included where available.
+All public repositories are listed below. Links use each repository's canonical GitHub URL.
 
 | Repository | Description | Tech Stack | Links |
 |:---|:---|:---|:---:|
-| **[PDF_Toolkit](https://github.com/irealashu/PDF_Toolkit)** | Feature-rich utility for PDF page extraction, merging, and image conversion. | `TypeScript` | [Repo](https://github.com/irealashu/PDF_Toolkit) · [Demo](https://irealashu.github.io/PDF_Toolkit/) |
-| **[WebCode](https://github.com/irealashu/WebCode)** | Lightweight browser-based web development playground with live preview. | `HTML5` `CSS3` `JavaScript` | [Repo](https://github.com/irealashu/WebCode) · [Demo](https://irealashu.github.io/WebCode/) |
 | **[Calculator](https://github.com/irealashu/Calculator)** | Native Android calculator application built with Kotlin. | `Kotlin` `Android SDK` | [Repo](https://github.com/irealashu/Calculator) |
 | **[Chess](https://github.com/irealashu/Chess)** | Android chess application exploring board mechanics, UI responsiveness, and game rules. | `Kotlin` `Android` | [Repo](https://github.com/irealashu/Chess) |
-| **[Sudoku](https://github.com/irealashu/Sudoku)** | Web-based interactive Sudoku puzzle game with real-time conflict checking. | `JavaScript` `HTML5` `CSS3` | [Repo](https://github.com/irealashu/Sudoku) · [Play](https://irealashu.github.io/Sudoku/) |
-| **[Portfolio](https://github.com/irealashu/Portfolio)** | Personal portfolio website showcasing projects, milestones, and learning journey. | `HTML5` `CSS3` `JavaScript` | [Repo](https://github.com/irealashu/Portfolio) · [Website](https://irealashu.in/) |
+| **[Color-Encyclopedia](https://github.com/irealashu/Color-Encyclopedia)** | Color encyclopedia and reference tool. | `TypeScript` | [Repo](https://github.com/irealashu/Color-Encyclopedia) |
+| **[genshin-impact-archive](https://github.com/irealashu/genshin-impact-archive)** | Excel-based archive and tracker for Genshin Impact characters, weapons, artifacts, books, and exploration progress. | `Excel` | [Repo](https://github.com/irealashu/genshin-impact-archive) |
+| **[NetSubnet-Pro](https://github.com/irealashu/NetSubnet-Pro)** | IPv4 subnet calculator. | `TypeScript` | [Repo](https://github.com/irealashu/NetSubnet-Pro) |
+| **[PDF_Toolkit](https://github.com/irealashu/PDF_Toolkit)** | PDF page extraction, merging, and image conversion utility. | `TypeScript` | [Repo](https://github.com/irealashu/PDF_Toolkit) |
+| **[Portfolio](https://github.com/irealashu/Portfolio)** | Personal portfolio website showcasing projects and milestones. | `HTML` `CSS` `JavaScript` | [Repo](https://github.com/irealashu/Portfolio) |
+| **[Sudoku](https://github.com/irealashu/Sudoku)** | Web-based interactive Sudoku puzzle game. | `JavaScript` `HTML5` `CSS3` | [Repo](https://github.com/irealashu/Sudoku) |
+| **[Teyvat-Archive](https://github.com/irealashu/Teyvat-Archive)** | The Damselette Archive. | `TypeScript` | [Repo](https://github.com/irealashu/Teyvat-Archive) |
+| **[WebCode](https://github.com/irealashu/WebCode)** | Universal in-browser IDE and playground. | `JavaScript` `HTML5` `CSS3` | [Repo](https://github.com/irealashu/WebCode) |
 | **[irealashu](https://github.com/irealashu/irealashu)** | Public GitHub profile configuration and README repository. | `Markdown` `GitHub Actions` | [Repo](https://github.com/irealashu/irealashu) |
 
 ---
