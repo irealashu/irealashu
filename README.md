@@ -1,6 +1,6 @@
 ## 📌 Projects
 
-All public repositories are listed below, with their descriptions, technologies, and links.
+All public repositories are listed below. Links use each repository's canonical GitHub URL.
 
 | Repository | Description | Tech Stack | Links |
 |:---|:---|:---|:---:|
