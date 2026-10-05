@@ -60,7 +60,7 @@ I didn't take a traditional computer science path, but I enjoy learning how syst
 
 | Project | What It Is | Tech | Links |
 | :--- | :--- | :--- | :---: |
-| **[NetSubnet-Pro](https://github.com/irealashu/NetSubnet-Pro)** | An IPv4 subnet and CIDR calculator for quick network planning and audit checks. | TypeScript, Web | [Repo](https://github.com/irealashu/NetSubnet-Pro) • [Demo](https://irealashu.github.io/NetSubnet-Pro/) |
+| **[Netvok-Tools](https://github.com/irealashu/Netvok-Tools)** | An IPv4 subnet and CIDR calculator for quick network planning and audit checks. | TypeScript, Web | [Repo](https://github.com/irealashu/Netvok-Tools) • [Demo](https://irealashu.github.io/Netvok-Tools/) |
 | **[PDF_Toolkit](https://github.com/irealashu/PDF_Toolkit)** | A private, browser-only tool to split, merge, and convert PDFs. Files stay on your machine. | TypeScript, Web APIs | [Repo](https://github.com/irealashu/PDF_Toolkit) • [Demo](https://irealashu.github.io/PDF_Toolkit/) |
 | **[WebCode](https://github.com/irealashu/WebCode)** | An in-browser code editor and live preview sandbox for testing quick snippets of HTML, CSS, and JS. | JavaScript, Web | [Repo](https://github.com/irealashu/WebCode) • [Demo](https://irealashu.github.io/WebCode/) |
 | **[CalcMate](https://github.com/irealashu/CalcMate)** | A clean, straightforward web calculator built for quick everyday math. | TypeScript, Web | [Repo](https://github.com/irealashu/CalcMate) • [Demo](https://irealashu.github.io/CalcMate/) |
