@@ -49,7 +49,7 @@ I didn't take a traditional computer science path, but I enjoy learning how syst
 | Project | What It Is | Tech | Links |
 | :--- | :--- | :--- | :---: |
 | **[ApexShell](https://github.com/irealashu/ApexShell)** | An Android terminal emulator that supports non-root, Shizuku (ADB privileges), and root shells in one app. | Kotlin, Android | [Repo](https://github.com/irealashu/ApexShell) |
-| **[Axil](https://github.com/irealashu/Axil)** | An experimental, keyword-free language that compiles directly to x86-64 Linux ELF binaries with zero dependencies. | Systems, ELF, CLI | [Repo](https://github.com/irealashu/Axil) |
+| **[Axil](https://github.com/irealashu/Axil)** | An experimental, keyword-free language that compiles directly to x86-64 Linux ELF binaries with zero dependencies. | Systems, ELF, CLI | [Repo](https://github.com/irealashu/Axil) • [Demo](https://irealashu.github.io/Axil/) |
 | **[AppMatrix-Pro](https://github.com/irealashu/AppMatrix-Pro)** | An Android utility for inspecting installed packages, managing permissions, and debugging apps. | Kotlin, Android | [Repo](https://github.com/irealashu/AppMatrix-Pro) |
 | **[Web2APK](https://github.com/irealashu/Web2APK)** | A tool to package responsive web apps into lightweight Android APK wrappers. | TypeScript, Android | [Repo](https://github.com/irealashu/Web2APK) • [Demo](https://irealashu.github.io/Web2APK/) |
 | **[Chess](https://github.com/irealashu/Chess)** | A native Android chess app built to explore board mechanics, move validation, and game loop logic. | Kotlin, Android | [Repo](https://github.com/irealashu/Chess) |
