@@ -47,7 +47,6 @@ I explore systems from first principles. Most of my projects start with a simple
 | **Axil** | Experimental keyword-free language that generates standalone x86-64 Linux ELF executables without external runtimes. | `Compilers` `ELF` `x86-64` | [Code](https://github.com/irealashu/Axil) |
 | **AppMatrix-Pro** | Package inspector for Android applications to audit app flags, manifest signatures, and runtime permissions. | `Kotlin` `Android SDK` | [Code](https://github.com/irealashu/AppMatrix-Pro) |
 | **APK-Editor** | Utility to deconstruct, adapt, and inspect Android package components and manifest structures. | `TypeScript` `Android` | [Code](https://github.com/irealashu/APK-Editor) |
-| **Web2APK** | Build utility turning client-side web apps into lightweight native Android application packages. | `TypeScript` `Android` | [Code](https://github.com/irealashu/Web2APK) |
 | **Chess** | Native Android chess app featuring board state serialization, legal move validation, and a custom game loop. | `Kotlin` `Jetpack` | [Code](https://github.com/irealashu/Chess) |
 
 ---
